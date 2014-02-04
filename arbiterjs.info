@@ -1,0 +1,6 @@
+name = ArbiterJS
+description = Client-side publish/subscriber framework for JavaScript
+package = ArbiterJS
+core = 7.x
+dependencies[] = libraries (>=2.x)
+
